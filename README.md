@@ -1,1 +1,1 @@
-# ong-proyect
+# ong-project
