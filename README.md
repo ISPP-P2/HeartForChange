@@ -13,8 +13,8 @@ HeartForChange es una aplicación web progresiva diseñada para ayudar a las org
 - **Gestión de subvenciones:** HeartForChange permite a las ONGs llevar un control eficiente de las subvenciones recibidas y su uso.
 
 ### Requisitos
-Acceso a internet
-Navegador web compatible con Progressive Web Applications (Chrome, Firefox, etc.)
++ Acceso a internet
++ Navegador web compatible con Progressive Web Applications (Chrome, Firefox, etc.)
 ### Instalación
 HeartForChange es una aplicación web progresiva y no requiere instalación en el dispositivo del usuario. Simplemente acceda a la URL de la aplicación en su navegador web y comience a utilizarla.
 ### Contribuciones
